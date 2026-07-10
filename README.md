@@ -22,5 +22,5 @@ I'm a beginner developer passionate about **Counter-Strike: Source v34** server 
 
 ---
 
-📬 Discord: **username#0000**
+📬 Discord: **woobbiie**
 
