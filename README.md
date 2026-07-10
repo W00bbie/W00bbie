@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**W00bbie/W00bbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer passionate about **Counter-Strike: Source v34** server plugins. I love learning how servers work and building tools to improve gameplay.
 
-Here are some ideas to get you started:
+## 🎯 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CS:S v34 server build 4044 — hosting, configuring, and maintaining
+- Learning SourceMod & MetaMod plugin development
+- Optimizing server configs for competitive play
+- Exploring ClientMod features and compatibility
+
+## 🌱 Currently learning
+
+- SourcePawn (SourceMod scripting)
+- Server administration
+- Game networking basics
+- Git & GitHub
+
+## 💬 Interests
+
+`Counter-Strike: Source` `SourceMod` `Server Plugins` `Game Dev` `CS:S v34`
+
+---
+
+📬 Discord: **username#0000**
+
+*Always open to tips, feedback, and collaboration!*
