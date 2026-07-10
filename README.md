@@ -4,7 +4,7 @@ I'm a beginner developer passionate about **Counter-Strike: Source v34** server 
 
 ## 🎯 What I'm working on
 
-- CS:S v34 server build 4044 — hosting, configuring, and maintaining
+- CS:S v34 server — hosting, configuring, and maintaining
 - Learning SourceMod & MetaMod plugin development
 - Optimizing server configs for competitive play
 - Exploring ClientMod features and compatibility
