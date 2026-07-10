@@ -28,3 +28,7 @@ I'm a beginner developer passionate about **Counter-Strike: Source v34** server 
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yA2xtBHyez)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=W00bbie&show_icons=true&theme=dark)
+
