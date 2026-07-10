@@ -24,3 +24,7 @@ I'm a beginner developer passionate about **Counter-Strike: Source v34** server 
 
 📬 Discord: **woobbiie**
 
+### 🤝 Let's Connect
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yA2xtBHyez)
+
