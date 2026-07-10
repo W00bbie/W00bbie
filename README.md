@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 , I'm W00bbie
 
 I'm a beginner developer passionate about **Counter-Strike: Source v34** server plugins. I love learning how servers work and building tools to improve gameplay.
 
